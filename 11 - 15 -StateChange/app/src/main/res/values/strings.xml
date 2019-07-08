@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StateChange</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hello_world">HelloWorldActivity</string>
+    <string name="new_activity">New Activity</string>
+    <string name="randomtext">RandomText</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+</resources>

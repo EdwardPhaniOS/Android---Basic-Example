@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotionChangeActivity</string>
+    <string name="touch_two_status">touch Two Status</string>
+    <string name="touch_one_status">touch One Status</string>
+</resources>
