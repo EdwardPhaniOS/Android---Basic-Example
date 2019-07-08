@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppLinking_instantapp.iml" filepath="$PROJECT_DIR$/AppLinking_instantapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applinkingbase/app.iml" filepath="$PROJECT_DIR$/applinkingbase/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applinkingapk/applinkingapk.iml" filepath="$PROJECT_DIR$/applinkingapk/applinkingapk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applinkingbase/applinkingbase.iml" filepath="$PROJECT_DIR$/applinkingbase/applinkingbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applinkinginstantapp/applinkinginstantapp.iml" filepath="$PROJECT_DIR$/applinkinginstantapp/applinkinginstantapp.iml" />
+    </modules>
+  </component>
+</project>
